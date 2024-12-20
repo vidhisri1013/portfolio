@@ -1,0 +1,960 @@
+/* screen - index */
+
+.personal-portfolio-template {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 5095px;
+  width: 1280px;
+}
+
+.personal-portfolio-template .overlap-group8 {
+  height: 700px;
+  position: relative;
+  width: 1280px;
+}
+
+.personal-portfolio-template .header {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  height: 700px;
+  justify-content: flex-start;
+  left: 0;
+  min-width: 1280px;
+  padding: 150px 180px;
+  position: absolute;
+  top: 0;
+  width: auto;
+}
+
+.personal-portfolio-template .header-text {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: center;
+  margin-top: 1.0px;
+  position: relative;
+  width: 538px;
+}
+
+.personal-portfolio-template .heading-and-subheading {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.personal-portfolio-template .heading {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.personal-portfolio-template .your-name-here {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 10px 0px;
+  position: relative;
+  width: 426px;
+}
+
+.personal-portfolio-template .title {
+  align-self: stretch;
+  color: var(--white);
+  font-family: var(--font-family-raleway);
+  font-size: 44px;
+  font-weight: 800;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.personal-portfolio-template .intro-text {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  position: relative;
+}
+
+.personal-portfolio-template .i-am-a-senior-at-cor {
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 492px;
+}
+
+.personal-portfolio-template .call-to-action {
+  align-items: center;
+  background-color: var(--la-palma);
+  border: 1px solid;
+  border-color: var(--lima);
+  border-radius: 4px;
+  box-shadow: 0px 8px 30px #3f8e0080;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  padding: 21px 64px;
+  position: relative;
+}
+
+.personal-portfolio-template .lets-get-started {
+  color: var(--white);
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.personal-portfolio-template .vector {
+  height: 10px;
+  position: relative;
+  width: 5.89px;
+}
+
+.personal-portfolio-template .photo-here {
+  height: 350px;
+  width: 350px;
+}
+
+.personal-portfolio-template .rectangle-1 {
+  background-color: #1a1a1a;
+  border-radius: 0px 0px 8px 8px;
+  height: 70px;
+  left: 85px;
+  position: absolute;
+  top: 0;
+  width: 1110px;
+}
+
+.personal-portfolio-template .top-menu {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 70px;
+  left: 180px;
+  position: absolute;
+  top: 24px;
+}
+
+.personal-portfolio-template .home {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.personal-portfolio-template .place {
+  letter-spacing: 0.14px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.personal-portfolio-template .case-studies {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.personal-portfolio-template .experience {
+  letter-spacing: 0.14px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.personal-portfolio-template .testimonials {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.personal-portfolio-template .projects {
+  letter-spacing: 0.14px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.personal-portfolio-template .recent-work {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.personal-portfolio-template .philosophies {
+  letter-spacing: 0.14px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.personal-portfolio-template .about-me {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.personal-portfolio-template .get-in-touch {
+  letter-spacing: 0.14px;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.personal-portfolio-template .social-media-icons {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  height: 17px;
+  justify-content: flex-end;
+  left: 1051px;
+  min-width: 108px;
+  position: absolute;
+  top: 27px;
+}
+
+.personal-portfolio-template .linked-in {
+  height: 17px;
+  width: 18px;
+}
+
+.personal-portfolio-template .perhapsresume-1 {
+  height: 20px;
+  margin-top: -2px;
+  object-fit: cover;
+  width: 20px;
+}
+
+.personal-portfolio-template .overlap-group9 {
+  height: 1888px;
+  margin-left: 33.0px;
+  margin-top: 80px;
+  position: relative;
+  width: 897px;
+}
+
+.personal-portfolio-template .case-studies-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 1888px;
+  position: absolute;
+  top: 0;
+  width: 897px;
+}
+
+.personal-portfolio-template .experience-1 {
+  color: var(--cod-gray);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxxl);
+  font-weight: 800;
+  height: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 32.0px;
+  margin-top: -1px;
+  min-width: 185px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.personal-portfolio-template .i-have-experience-in {
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  margin-right: 33.0px;
+  margin-top: 10px;
+  min-height: 72px;
+  position: relative;
+  text-align: center;
+  width: 570px;
+}
+
+.personal-portfolio-template .overlap-group1 {
+  height: 589px;
+  margin-right: 5.0px;
+  margin-top: 58px;
+  position: relative;
+  width: 892px;
+}
+
+.personal-portfolio-template .work-1 {
+  height: 589px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 892px;
+}
+
+.personal-portfolio-template .in-my-three-years-on {
+  left: 0;
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  position: absolute;
+  top: 108px;
+  width: 459px;
+}
+
+.personal-portfolio-template .name {
+  height: 28px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 70px;
+  white-space: nowrap;
+}
+
+.personal-portfolio-template .tag {
+  align-items: flex-start;
+  background-color: #ffe8e8;
+  border-radius: 60px;
+  display: inline-flex;
+  gap: 10px;
+  left: 0;
+  padding: 0px 10px;
+  position: absolute;
+  top: 27px;
+}
+
+.personal-portfolio-template .project-team {
+  color: #ff3617;
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.personal-portfolio-template .overlap-group-1 {
+  height: 400px;
+  left: 447px;
+  position: absolute;
+  top: 0;
+  width: 445px;
+}
+
+.personal-portfolio-template .mask-group-1 {
+  left: 0;
+  top: 0;
+}
+
+.personal-portfolio-template .ccrt-logo-1 {
+  height: 200px;
+  left: 145px;
+  object-fit: cover;
+  position: absolute;
+  top: 200px;
+  width: 200px;
+}
+
+.personal-portfolio-template .call-to-action-1 {
+  background-color: #ff1717;
+  box-shadow: 0px 8px 30px #2ab0901a;
+  left: 0;
+  position: absolute;
+  top: 532px;
+}
+
+.personal-portfolio-template .view-more-from-cup-robotics {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.personal-portfolio-template .work-2 {
+  height: 544px;
+  margin-right: 4.0px;
+  position: relative;
+  width: 897px;
+}
+
+.personal-portfolio-template .call-to-action-2 {
+  background-color: #000aff;
+  box-shadow: 0px 8px 30px #000aff1a;
+  left: 476px;
+  position: absolute;
+  top: 479px;
+}
+
+.personal-portfolio-template .view-my-work-at-the-sea-lab {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.personal-portfolio-template .over-the-summer-of-2 {
+  left: 476px;
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  position: absolute;
+  top: 108px;
+  width: 421px;
+}
+
+.personal-portfolio-template .sea-lab {
+  height: 28px;
+  left: 476px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 70px;
+  white-space: nowrap;
+}
+
+.personal-portfolio-template .tag-1 {
+  background-color: #d0e5ff;
+  left: 476px;
+}
+
+.personal-portfolio-template .place-1 {
+  color: #000aff;
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.personal-portfolio-template .mask-group-2 {
+  left: 4px;
+  top: 132px;
+}
+
+.personal-portfolio-template .work-3 {
+  height: 556px;
+  left: 5px;
+  position: absolute;
+  top: 1312px;
+  width: 892px;
+}
+
+.personal-portfolio-template .this-is-my-second-ye {
+  left: 0;
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  position: absolute;
+  top: 108px;
+  width: 461px;
+}
+
+.personal-portfolio-template .society-of-women-engineers {
+  height: 28px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 70px;
+  white-space: nowrap;
+}
+
+.personal-portfolio-template .tag-2 {
+  background-color: #fbe0ff;
+  left: 0;
+}
+
+.personal-portfolio-template .community-service {
+  color: #c05bff;
+  font-family: var(--font-family-ibm_plex_mono);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  letter-spacing: 0.12px;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.personal-portfolio-template .cornell-swe-logo-1 {
+  height: 233px;
+  left: 567px;
+  object-fit: cover;
+  position: absolute;
+  top: 153px;
+  width: 230px;
+}
+
+.personal-portfolio-template .call-to-action-3 {
+  background-color: #aa7aff;
+  box-shadow: 0px 8px 30px #2ab0901a;
+  left: 0;
+  position: absolute;
+  top: 513px;
+}
+
+.personal-portfolio-template .view-community-service {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.personal-portfolio-template .overlap-group10 {
+  align-items: center;
+  background-image: url(../img/rectangle-10-1.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 74px;
+  min-height: 1266px;
+  padding: 41.5px 180.0px;
+  width: 1280px;
+}
+
+.personal-portfolio-template .projects-1 {
+  color: #fffefe;
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxxl);
+  font-weight: 800;
+  height: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 1.0px;
+  min-width: 136px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.personal-portfolio-template .in-my-classes-i-hav {
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  margin-right: 0;
+  margin-top: 10px;
+  min-height: 72px;
+  position: relative;
+  text-align: center;
+  width: 570px;
+}
+
+.personal-portfolio-template .work-container {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  gap: 38px;
+  height: 942px;
+  margin-top: 61px;
+  min-width: 920px;
+}
+
+.personal-portfolio-template .work-1-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 942px;
+  width: 437px;
+}
+
+.personal-portfolio-template .mask-group {
+  height: 300px;
+  width: 445px;
+}
+
+.personal-portfolio-template .gesture-controlled-video-game {
+  color: var(--white);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxl);
+  font-weight: 800;
+  height: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 39px;
+  min-width: 375px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.personal-portfolio-template .this-was-my-final-pr {
+  min-height: 480px;
+}
+
+.personal-portfolio-template .call-to-action-4 {
+  background-color: var(--la-palma);
+  border: 1px solid;
+  border-color: var(--lima);
+  box-shadow: 0px 8px 30px #3f8e004c;
+  margin-left: 0;
+  margin-top: 21px;
+  position: relative;
+}
+
+.personal-portfolio-template .visit-my-project-webpage-for-more {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.personal-portfolio-template .work-2-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 942px;
+  width: 445px;
+}
+
+.personal-portfolio-template .telegraph-using-frdm-kl46-z {
+  color: var(--white);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxl);
+  font-weight: 800;
+  height: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 39px;
+  min-width: 345px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.personal-portfolio-template .this-was-my-final-gr {
+  min-height: 456px;
+}
+
+.personal-portfolio-template .call-to-action-5 {
+  background-color: var(--la-palma);
+  border: 1px solid;
+  border-color: var(--lima);
+  box-shadow: 0px 8px 30px #3f8e004c;
+  margin-left: 0;
+  margin-top: 41px;
+  position: relative;
+}
+
+.personal-portfolio-template .visit-my-project-webpage-for-more-1 {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.personal-portfolio-template .philosophies-1 {
+  height: 842px;
+  position: relative;
+  width: 1280px;
+}
+
+.personal-portfolio-template .flex-row {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  gap: 30px;
+  height: 804px;
+  left: 0;
+  min-width: 1280px;
+  padding: 80px 180px;
+  position: absolute;
+  top: 0;
+}
+
+.personal-portfolio-template .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  min-height: 519px;
+  width: 445px;
+}
+
+.personal-portfolio-template .overlap-group {
+  height: 245px;
+  position: relative;
+  width: 445px;
+}
+
+.personal-portfolio-template .testimonial-1 {
+  align-items: flex-end;
+  background-color: var(--mercury);
+  border-radius: 6px;
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  min-height: 212px;
+  padding: 29px 6px;
+  width: 445px;
+}
+
+.personal-portfolio-template .only-a-life-lived-fo {
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  min-height: 48px;
+  width: 409px;
+}
+
+.personal-portfolio-template .engineering-is-the {
+  align-self: center;
+  height: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 12.0px;
+  min-width: 397px;
+  position: relative;
+}
+
+.personal-portfolio-template .text {
+  left: 10px;
+  letter-spacing: 1.00px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.personal-portfolio-template .testimonial-3 {
+  align-items: flex-start;
+  background-color: var(--mercury);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  height: 212px;
+  min-width: 445px;
+}
+
+.personal-portfolio-template .dive-container {
+  align-items: flex-end;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  min-height: 212px;
+  padding: 29px 6px;
+  width: 445px;
+}
+
+.personal-portfolio-template .diversity-should-not {
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  min-height: 48px;
+  width: 409px;
+}
+
+.personal-portfolio-template .learning-from-dive {
+  align-self: center;
+  height: 42px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 8.0px;
+  min-width: 393px;
+}
+
+.personal-portfolio-template .testimonial-2 {
+  height: 212px;
+  width: 445px;
+}
+
+.personal-portfolio-template .overlap-group1-1 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-14.png);
+  background-size: 100% 100%;
+  display: flex;
+  height: 220px;
+  left: -4px;
+  min-width: 453px;
+  padding: 29px 34px;
+  position: absolute;
+  top: 0;
+}
+
+.personal-portfolio-template .if-the-creation-and {
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  min-height: 48px;
+  width: 360px;
+}
+
+.personal-portfolio-template .i-believe-that-eth {
+  height: 42px;
+  left: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 117px;
+}
+
+.personal-portfolio-template .testimonial-4 {
+  align-items: flex-end;
+  background-color: var(--mercury);
+  box-shadow: 0px 4px 4px #00000040;
+  display: flex;
+  flex-direction: column;
+  gap: 19px;
+  min-height: 212px;
+  padding: 29px 8px;
+  width: 445px;
+}
+
+.personal-portfolio-template .creators-of-new-tech {
+  align-self: center;
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  margin-right: 25.0px;
+  min-height: 72px;
+  width: 360px;
+}
+
+.personal-portfolio-template .engineers-are-the {
+  height: 63px;
+  letter-spacing: 0;
+  line-height: normal;
+  min-width: 407px;
+  position: relative;
+}
+
+.personal-portfolio-template .i-aim-to-act-as-a-re {
+  left: 355px;
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 129px;
+  width: 570px;
+}
+
+.personal-portfolio-template .philosophies-2 {
+  color: var(--black);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxxl);
+  font-weight: 800;
+  height: 40px;
+  left: 534px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 79px;
+  white-space: nowrap;
+}
+
+.personal-portfolio-template .overlap-group7 {
+  align-items: flex-end;
+  background-image: url(../img/rectangle-10.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-top: 1px;
+  min-height: 244px;
+  padding: 73px 334px;
+  width: 1280px;
+}
+
+.personal-portfolio-template .get-in-touch-1 {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xxxl);
+  font-weight: 800;
+  height: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 26.0px;
+  min-width: 206px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.personal-portfolio-template .im-always-happy-to {
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  min-height: 48px;
+  text-align: center;
+  width: 570px;
+}
+
+.personal-portfolio-template .call-to-action-6 {
+  align-items: center;
+  border-radius: 4px;
+  display: inline-flex;
+  gap: 10px;
+  padding: 10px 24px;
+}
+
+.personal-portfolio-template .mask-group-3 {
+  height: 300px;
+  position: absolute;
+  width: 445px;
+}
+
+.personal-portfolio-template .tag-3 {
+  align-items: flex-start;
+  border-radius: 60px;
+  display: inline-flex;
+  gap: 10px;
+  padding: 0px 10px;
+  position: absolute;
+  top: 27px;
+}
+
+.personal-portfolio-template .testimonial {
+  left: 0;
+  position: absolute;
+  top: 33px;
+}
+
+.personal-portfolio-template .this-was-my-final {
+  letter-spacing: 0.14px;
+  line-height: 24px;
+  margin-top: 20px;
+  position: relative;
+  width: 421px;
+}
